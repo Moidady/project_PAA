@@ -1,0 +1,8 @@
+100: Worst case: 0.000000 sec, Average case: 0.000000 sec
+150: Worst case: 0.000000 sec, Average case: 0.000000 sec
+200: Worst case: 0.000000 sec, Average case: 0.000000 sec
+250: Worst case: 0.000000 sec, Average case: 0.000000 sec
+300: Worst case: 0.000000 sec, Average case: 0.000000 sec
+350: Worst case: 0.000000 sec, Average case: 0.000000 sec
+400: Worst case: 0.000000 sec, Average case: 0.000000 sec
+500: Worst case: 0.000000 sec, Average case: 0.000000 sec
